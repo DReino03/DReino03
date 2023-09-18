@@ -7,4 +7,4 @@
   - 🌱 A better world is possible if we all work towards it.
 
     
-![rick](https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif)
+      ![rick](https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif)
